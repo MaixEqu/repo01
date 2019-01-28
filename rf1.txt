@@ -1,1 +1,2 @@
-repo01 first file on J125 (edit local on J1R)
+repo01 first file on J125 (edit local on J1R, ver.2)
+
