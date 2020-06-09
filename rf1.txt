@@ -3,3 +3,4 @@ add from debian on J128.v1;
 add from github.com on J128.v2; v3
 
 add on J7J
+test on K69
